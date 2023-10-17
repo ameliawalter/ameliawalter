@@ -1,10 +1,11 @@
 <h1 align="center">👋 I'm Amelia</h1>
-<h2 align="center">QA and Test Automation Engineer from 🇵🇱</h2>
+<h2 align="center">a QA and Test Automation Engineer from 🇵🇱</h2>
 
 - 🐱‍👤 Moreover, I am a keen **knowledge exchanger** and a multipotentialite with **growth mindset**
-- ✨ I do some copywriting in IT field and I occasionally speak in IT conferences
-- 🐍 I hone my programming and automation skills in Python (+Pytest) and C# (+NUnit, Selenium)
-- 🕮 I'm a biology scientist by education and a polyglot by passion (PL, EN, FR, IT)
+- 💡 I speak at IT conferences, publish social media posts and write articles
+- 🐍 I hone my programming and test automation skills in Python and C#
+- ✨ I am into soft skills development and psychoeducation on mental health, neurodiversity, coummunication, intercultural differences in IT/business
+- 🕮 I am a biology scientist with focus on human behavior by education and a polyglot by passion (PL, EN, FR, IT)
 
 <h3 align="left">Get in touch:</h3>
 <p align="left">
